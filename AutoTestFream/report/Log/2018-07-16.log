@@ -1,0 +1,42 @@
+2018-07-16 10:33:03,927-fox-DEBUG-debug日志信息
+2018-07-16 10:33:03,942-fox-INFO-info日志信息
+2018-07-16 10:39:54,595-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 10:39:54,596-TC_BingSearch-INFO-test_searchBing d info 信息
+2018-07-16 10:44:52,326-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 10:44:52,327-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 10:48:11,717-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 10:48:11,718-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 10:48:12,360-TC_BingSearch-DEBUG-name 'time' is not defined
+2018-07-16 10:48:12,360-TC_BingSearch-DEBUG-name 'time' is not defined
+2018-07-16 10:48:12,360-TC_BingSearch-INFO-name 'time' is not defined
+2018-07-16 10:48:12,360-TC_BingSearch-INFO-name 'time' is not defined
+2018-07-16 10:49:36,204-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 10:49:36,204-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 10:49:36,888-TC_BingSearch-DEBUG-<built-in function time>:退出浏览器
+2018-07-16 10:51:30,254-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 10:51:30,255-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 10:51:30,873-TC_BingSearch-DEBUG-1531709490.873319:退出浏览器
+2018-07-16 11:52:04,294-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 11:52:04,295-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 11:52:04,793-TC_BingSearch-DEBUG-1531713124.7939336:退出浏览器
+2018-07-16 12:00:38,116-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 12:00:38,116-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 12:00:38,565-TC_BingSearch-DEBUG-1531713638.5652354:退出浏览器
+2018-07-16 12:06:46,201-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 12:06:46,202-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 12:06:46,554-TC_BingSearch-DEBUG-1531714006.5549366:退出浏览器
+2018-07-16 12:11:11,826-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 12:11:11,827-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 12:11:12,283-TC_BingSearch-DEBUG-1531714272.2839365:退出浏览器
+2018-07-16 12:15:02,157-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 12:15:02,158-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 12:15:02,677-TC_BingSearch-DEBUG-1531714502.6779366:退出浏览器
+2018-07-16 12:33:09,415-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 12:33:09,416-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 12:33:09,934-TC_BingSearch-DEBUG-1531715589.9349365:退出浏览器
+2018-07-16 12:37:47,983-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 12:37:47,983-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 12:37:48,419-TC_BingSearch-DEBUG-1531715868.4199364:退出浏览器
+2018-07-16 12:42:20,601-TC_BingSearch-DEBUG-('debug:', 'test_searchBing 的debug 信息')
+2018-07-16 12:42:20,602-TC_BingSearch-INFO-test_searchBing 的 info 信息
+2018-07-16 12:42:21,067-TC_BingSearch-DEBUG-1531716141.0679364:退出浏览器
